@@ -8,8 +8,9 @@ body {
   background-attachment: fixed;
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: flex-start;
   color: white;
+  transition: background-color 0.3s ease;
 }
 
 #root {
